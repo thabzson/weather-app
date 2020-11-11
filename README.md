@@ -10,14 +10,6 @@ react-native-weather is a React Native Aplication built with [EXPO](https://expo
 npm install
 ```
 
-## Open Weather Map API
-
-Generate API_KEY
-
-- Create an account at the [website](https://openweathermap.org/).
-- Get your API KEY by email.
-- Create `.env` file on the project root and insert yout key like this: `API_KEY=<open_weather_map_api_key>`
-
 ## Start Application
 
 ```bash
